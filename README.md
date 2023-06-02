@@ -4,7 +4,7 @@
 cd myTest
 ```
 ```bash
-cd go run test -TestValidatePincode -v
+cd go test -run TestValidatePincode -v
 ```
 
 <p>Happy Testing 😇</p>
